@@ -17,6 +17,13 @@
 <p> ✨ I also do website and domain migration </p> <br>📚 I'm currently learning Crocoblock & Custom post types and cutome fields ...<br>🎯 Goals: To expand and grow client's business through their websites<br>🎲 Tools I Used: Wordpress, Elementor & Elementor Pro, HTML, CSS, Javascript</p>
 
 ###
+<h2 align="left">The list of websites I have built with Wordpress Elementor</h2>
+<p> https://propertymesh.ca/</p>
+<p>https://tricareservices.com.au/ </p>
+<p>https://tempcontrolmelbourne.com.au/ </p>
+<p> https://gottalovefishingvic.com.au/</p>
+<p>https://vavida.se/ </p>
+<p>  https://mindsettherapy.net.au/</p>
 
 <h2 align="left">I code with</h2>
 
