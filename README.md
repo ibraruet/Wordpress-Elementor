@@ -11,10 +11,10 @@
 
 ###
 
-<p align="left"> ✨  My name is Muhammad Ibrar and I'm a Wordpress Elementor developer with over 3 years of experience in this field including 2 years at a software house & 1 year at Upwork. I have worked for multiple local and international clients to build their Wordpress-based websites to help them grow their businesses. 
-<p> ✨ I am currently Top Rated Wordpress developer on Upwork with over 12 Elementor based projects completed successsfully with 100% Job Sucsess Score and 5 Star rating </p>
-<p> ✨ I also do wordpress bug fixing, monthly maintenance, security and health improvement of sites 
-<p> ✨ I also do website and domain migration </p> <br>📚 I'm currently learning Crocoblock & Custom post types and cutome fields ...<br>🎯 Goals: To expand and grow client's business through their websites<br>🎲 Tools I Used: Wordpress, Elementor & Elementor Pro, HTML, CSS, Javascript</p>
+<p align="left"> ✨  My name is <b>Muhammad Ibrar</b> and I'm a Wordpress Elementor developer with over <b>3 years of experience</b> in this field including 2 years at a software house & 1 year at Upwork. I have worked for multiple local and international clients to build their Wordpress-based websites to help them grow their businesses. 
+<p> ✨ I am currently <b>Top Rated Wordpress developer on Upwork</b> with over 12 Elementor-based projects completed successfully with <b>100% Job Success Score</b> and <b>5 Star rating</b> </p>
+<p> ✨ I also do WordPress bug fixing, monthly maintenance, security and health improvement of sites 
+<p> ✨ I also do website and domain migration </p> <br>📚 I'm currently learning Crocoblock & Custom post types and custom fields ...<br>🎯 Goals: To expand and grow client's business through their websites<br>🎲 Tools I Used: WordPress, Elementor & Elementor Pro, HTML, CSS, Javascript</p>
 
 ###
 <h2 align="left">Some of the websites I have built with WordPress Elementor</h2>
