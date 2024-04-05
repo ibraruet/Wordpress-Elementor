@@ -34,6 +34,9 @@ https://wordpress-628475-4324064.cloudwaysapps.com/ <br>
 https://autohaus.yamminedev.com/ <br>
 https://liveascend.ca/ (Landing page Figma to Elementor) <br> 
 http://astronicweb.com/ <br> 
+https://thelocalcleaning.com/ <br>
+https://ascensionexchange.com/ <br>
+https://ilazy.net/
 
 <h2 align="left">I code with</h2>
 
