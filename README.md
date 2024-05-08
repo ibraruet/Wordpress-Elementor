@@ -36,7 +36,13 @@ https://liveascend.ca/ (Landing page Figma to Elementor) <br>
 http://astronicweb.com/ <br> 
 https://thelocalcleaning.com/ <br>
 https://ascensionexchange.com/ <br>
-https://ilazy.net/
+https://ilazy.net/<br>
+https://markbowden.com/<br>
+https://miriadgroup.com/<br>
+https://globalfriendshipca.org/<br>
+https://biznartsdesignagency.com/<br>
+https://booket.financeella.com/<br>
+https://pronotixsolutions.com/
 
 
 
