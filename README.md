@@ -17,7 +17,7 @@
 <p> ✨ I also do website and domain migration </p>
 <p> ✨ Excellent Communication Skills, fluent English speaking</p> 
 <p>✨ Attention to Details</p>
- <br>📚 I'm currently learning Crocoblock & Custom post types and custom fields ...<br>🎯 Goals: To expand and grow client's business through their websites<br>🎲 Tools I Used: WordPress, Elementor & Elementor Pro, HTML, CSS, Javascript</p>
+ <br>📚 Also worked on Crocoblock & Custom post types and custom fields ...<br>🎯 Goals: To expand and grow client's business through their websites<br>🎲 Tools I Used: WordPress, Elementor & Elementor Pro, HTML, CSS, Javascript</p>
 
 ###
 <h2 align="left">Some of the websites I have built with WordPress Elementor</h2>
