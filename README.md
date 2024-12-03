@@ -21,18 +21,21 @@
 
 ###
 <h2 align="left">Some of the websites I have built with WordPress Elementor</h2>
+https://theshade.com.au/<br>
 https://propertymesh.ca/<br>
+https://highaims.co/<br>
+https://www.prosignals.co/migrate/<br>
 https://tricareservices.com.au/ <br>
+https://thelilypadco.com/<br>
 https://tempcontrolmelbourne.com.au/ <br>
- https://gottalovefishingvic.com.au/ <br>
-https://vavida.se/ <br>
+https://gottalovefishingvic.com.au/ <br>
+https://vavida.se/ <be>
+https://jleblanc.me/<br>
 https://mindsettherapy.net.au/ <br>
 https://activeconstructions.com.au/ <br>
 https://melbourneroofingmaster.com.au/ <br>
 https://carewhitestar.com.au/ <br>
-https://wordpress-628475-4324064.cloudwaysapps.com/ <br>
-https://autohaus.yamminedev.com/ <br>
-https://liveascend.ca/ (Landing page Figma to Elementor) <br> 
+https://liveascend.ca/ <br> 
 http://astronicweb.com/ <br> 
 https://thelocalcleaning.com/ <br>
 https://ascensionexchange.com/ <br>
