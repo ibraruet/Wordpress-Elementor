@@ -70,7 +70,6 @@ https://completerenovations.ca/ <br>
 https://hfspl.com.au/ <br>
 https://seekingshalom.org/ <br>
 https://dbattorneys.com/ <br>
-https://hotel-murten-seepark.ch/ <br>
 https://www.livingbyimi.com/ <br>
 
 ###
