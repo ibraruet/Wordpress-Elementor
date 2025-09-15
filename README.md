@@ -41,7 +41,6 @@ https://carewhitestar.com.au/ <br>
 https://liveascend.ca/ <br> 
 http://astronicweb.com/ <br> 
 https://ascensionexchange.com/ <br>
-https://ilazy.net/<br>
 https://markbowden.com/<br>
 https://miriadgroup.com/<br>
 https://acclaimpictures.com/ <br>
@@ -49,7 +48,7 @@ https://globalfriendshipca.org/<br>
 https://biznartsdesignagency.com/<br>
 https://booket.financeella.com/<br>
 https://pronotixsolutions.com/ <br>
-https://deptofcreative.flywheelsites.com/ <br>
+https://flywheelsites.com/ <br>
 https://sosnybonsai.cfolks.pl/  <br>
 https://dewclawkennel.com/ <br>
 https://brummellsjournal.com/ <br>
@@ -73,11 +72,6 @@ https://seekingshalom.org/ <br>
 https://dbattorneys.com/ <br>
 https://hotel-murten-seepark.ch/ <br>
 https://www.livingbyimi.com/ <br>
-https://www.prosignals.co/migrate/ (Landing Page) <br> 
-
-
-
-
 
 ###
 
