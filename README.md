@@ -49,7 +49,7 @@ https://biznartsdesignagency.com/<br>
 https://booket.financeella.com/<br>
 https://pronotixsolutions.com/ <br>
 https://flywheelsites.com/ <br>
-https://sosnybonsai.cfolks.pl/  <br>
+https://roslinyhurt.pl/<br>
 https://dewclawkennel.com/ <br>
 https://brummellsjournal.com/ <br>
 https://glasgow-double-glazing.co.uk/ <br>
